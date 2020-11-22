@@ -1,0 +1,45 @@
+p {
+    color: #87c7ff;
+}
+
+.thumbnail.caption-full {
+    padding: 9px;
+}
+
+h1 {
+    color: blue;
+}
+
+.form-group {}
+
+h5 {
+    color: #5494d6;
+}
+
+h4 {
+    color: #556a78;
+}
+
+.jumbotron {
+    font-size: 12px height: 250px;
+}
+
+.form-group {
+    color: blue;
+}
+
+.haha {
+    color: red;
+}
+
+.hahaha {
+    color: purple;
+}
+
+body {
+    background: url(/Users/karlie/Desktop/JS_STUFF/TEST_2/WechatIMG140.jpeg);
+}
+
+#delete {
+    display: inline;
+}
